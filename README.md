@@ -1,3 +1,3 @@
 # monthly_challenges
 
-simple python project for exercise
+simple python django project for exercise
